@@ -20,12 +20,6 @@ Setup ruby on rails application with Elasticsearch to support autocomplete featu
 
 Setting up a Ruby on rails application using docker and deploy the application to AWS using terraform and AWS codepipeline.
 
-### Rails 6 deployment using Terraform, Docker and AWS codepipeline
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ajays1991/rails_terraform)
-
-Setting up a Ruby on rails application using docker and deploy the application to AWS using terraform and AWS codepipeline.
-
 ### AWS Lambda function with Serverless Framework
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ajays1991/AWS-Lambda-Serverless-Framework)
